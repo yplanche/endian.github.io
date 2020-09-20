@@ -1,0 +1,3096 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.0",
+    "uniqCompNum": 1,
+    "versionPublish": "3.0",
+    "name": "The ENDIAN Laboratory",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "scrollAnimation": "true",
+    "favicon": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/yves/Sites/Endian"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "The ENDIAN Lab",
+        "meta_descr": "Welcome to the laboratory for ENvironmental DIagnostics and ANalysis",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-9",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#f97352"
+          },
+          "text": "<pre><b>[Open - posted 30 March 2017] - Paid undergraduate summer internship opportunity (Check NEWS&gt;Vacancies)</b></pre>"
+        },
+        {
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "32px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header2-65",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/endian-logo-v3b4-big-transparent-1400x1025-64.png",
+              "link": "",
+              "alt": "",
+              "title": "Endian logo",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "We are an academic research group seeking to understand <b>global&nbsp;environmental </b><b>change</b> through the lense of trace element and isotopic geochemistry using physical principles, statistical analysis and computer modeling. &nbsp;&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#efefef"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In computer science, \"<b>endianness</b>\" refers to the order bytes are stored in memory. In everyday life, we use the <b>big-endian</b> convention: we write the number \"one hundred\" as \"100\", with the most significant digit first. But this is a just a convention. Some computers, however, use the <b>little-endian</b> form and store (and understand) the number \"one hundred\" in their memory as \"001\" (Wikipedia provides a detailed explanation of \"endianness\", https://en.wikipedia.org/wiki/Endianness).&nbsp;</span><br></p><p><br></p><p>With this in mind, \"Endian\", aside from being the acronym of our group, underlines also the group's philosophy; that is we strive to investigate environmental change from various angles, including and especially non-conventional ones (in the little-endian way!). \"Endian\" of course also highlights our use of computer modeling to help us quantify and physically understand environmental signals.</p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#2e2e2e",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/endian-logo-v3b4-webwhite-311x128-17.png",
+              "height": 128,
+              "alt": "Endian home",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social.html\">Collaborators<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"links.html\">Useful links<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            "P": {
+              "color": "#efefef",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "contacts1-66",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "assets/images/endian-logo-v3b4-webwhite-265x108-34.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Yves Plancherel<br>Department of Earth Sciences<br>University of Oxford<br>South Parks Road<br>Oxford, OX1 3AN<br>United Kingdom",
+          "text2": "<strong>Contacts</strong><br>\nEmail: yves.plancherel@earth.ox.ac.uk<br>\nPhone: +44 (0) 1865 272012<br>Twitter: <a href=\"https://twitter.com/endian_lab \" target=\"_blank\" class=\"text-danger\"><b>@endian_lab</b></a>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"https://www.earth.ox.ac.uk\" class=\"text-success\">Department of Earth Sciences</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://www.ox.ac.uk\" class=\"text-success\">University of Oxford</a><br></p>"
+        },
+        {
+          "_name": "map1",
+          "_anchor": "map1-67",
+          "_params": {
+            "googleMap": {
+              "address": "Department of Earth Sciences, South Parks Road, Oxford OX1 3AN",
+              "placeId": "ChIJ5wfCCqnGdkgRK7OrnnGPaqc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        }
+      ]
+    },
+    "research.html": {
+      "settings": {
+        "title": "Research",
+        "meta_descr": "Brief description of our research projects.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-74",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/shalenormalized-basinscomparison-g95-14april2014-1400x1200-9.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Rare earth elements",
+          "text": "Statistical analysis and modeling of the global distribution of REEs in the ocean",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-75",
+          "_params": {
+            "bgColor": "#2e2e2e",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/endian-logo-v3b4-webwhite-311x128-74.png",
+              "height": 128,
+              "alt": "Endian home",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social.html\">Collaborators<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"links.html\">Useful links<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-76",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-77",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-78",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/analyze-thorium-v7-22oct2015-1400x808-98.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Thorium isotopes",
+          "text": "Owning to its propensity to adsorb onto surfaces, Th is a great element to learn about the role of particles in the ocean. By coupling radioactive and stable Th isotopes, one can estimate particle sinking rates and elemental input fluxes to the ocean.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-79",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-80",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/proposal-pb-maps-v6-4-19nov2015-1400x1147-39.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "The Pb cycle",
+          "text": "Pb is one of the great geophysical experiment. Massive amouts of Pb have been released to the environment when leaded gasoline was being used (from the 1920s). Where is this Pb now? Pb isotopes also carry regional signatures. Can these isotopic signatures help us reconstruct &nbsp;fluxes &nbsp;and the fate of Pb in the ocean?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-81",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-82",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/woa05-annual-climatology-volumetric-decades-ipcc4style-1-small-1400x874-81.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Climate and ocean models",
+          "text": "Although many climate models exist, these models are not all create equal. Why models should one believe? Do all models have the same scientific value? What are the biases and can the root causes for these biases be identified?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-83",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        }
+      ]
+    },
+    "social.html": {
+      "settings": {
+        "title": "Social and collaborations",
+        "meta_descr": "Social events, outreach and collaborations",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#000000",
+              "font-size": "36px"
+            }
+          },
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-99",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "Collaborators",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-100",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.earth.ox.ac.uk/people/samar-khatiwala/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Samar Khatiwala (U. of Oxford/Earth Sci.)</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-101",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://climotope.earth.ox.ac.uk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Gideon Henderson &amp; the \"Climotope\" group (U. of Oxford/Earth Sci.)</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-102",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.imperial.ac.uk/people/tina.vandeflierdt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Tina van de Flierdt and the \"MAGIC\" group at Imperial College</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-103",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.met.reading.ac.uk/~till/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Till Kuhlbrodt (U. Reading, NCAS, Met-Office)</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-104",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.princeton.edu/aos/people/research_staff/rodgers/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Keith Rodgers (AOS Program, Princeton U.)</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-105",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www2.physics.ox.ac.uk/research/climate-and-ocean-physics\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Laure Zanna and the Climate and Ocean Physics group (U. of Oxford/Physics)</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-106",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www2.physics.ox.ac.uk/research/physical-oceanography\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">David Marshall and the Physical Oceanography group (U. of Oxford/Physics)&nbsp;</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-107",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.earth.ox.ac.uk/research-groups/physical-oceanography/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Helen Johnson (U. of Oxford/Earth Sci.)</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-108",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.geomar.de/en/mitarbeiter/fb1/po-z/mfrank/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Martin Frank, Ed Hathorne, Anne Osborne and the Kiel/GEOMAR paleo-oceanography group</span>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-109",
+          "_params": {
+            "bgColor": "#2e2e2e",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/endian-logo-v3b4-webwhite-311x128-62.png",
+              "height": 128,
+              "alt": "Endian home",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social.html\">Collaborators<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"links.html\">Useful links<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-110",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-111",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://annuaire.ifremer.fr/cv/17781/en/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Camille Lique (Ifremer)</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-112",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.ldeo.columbia.edu/user/cbasak\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Chandranath Basak (Lamont-Doherty Earth Observatory)</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-113",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://geoscience.wisc.edu/geoscience/people/postdoctoral-associates/xzheng/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Xinyuan Zheng (U. of Winsconsin)</span>"
+        }
+      ]
+    },
+    "publications.html": {
+      "settings": {
+        "title": "Publications",
+        "meta_descr": "A list of publications",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#000000",
+              "font-size": "36px"
+            },
+            ".lead H3": {
+              "font-size": "20px",
+              "text-align": "center"
+            },
+            ".lead H5": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-85",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "PUBLICATIONS",
+          "text": "<h5>Use the links on the right to access the papers through ScienceDirect or the publishers. </h5><h5>You can also <a href=\"publications.html#form1-98\" class=\"text-danger\"><b>contact us</b></a>&nbsp;directly to request a PDF if you don't have access, or try <a href=\"https://www.researchgate.net/profile/Yves_Plancherel\" target=\"_blank\" class=\"text-danger\"><b>Researchgate</b></a>.</h5>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-86",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.sciencedirect.com/science/article/pii/S0016703716000442\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Zheng X., Plancherel Y., Saito, M. A., Scott P. M. and Henderson G. M. (2016) Rare earth \n   elements (REEs) in the tropical South Atlantic and quantitative deconvolution of their non-\n   conservative behavior. Geochimica et Cosmochimica Acta. doi:10.1016/j.gca.2016.01.018.\n</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-87",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.sciencedirect.com/science/article/pii/S0304420315000675\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Osborne A. H., Haley B. A., Hathorne E. C., Plancherel Y. and Frank M. (2015). Rare earth \n  element distribution in Caribbean seawater: Continental inputs versus lateral transport of \n  distinct REE compositions in subsurface water masses. Marine Chemistry. \n  doi:10.1016/j.marchem.2015.03.013\n</span>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-88",
+          "_params": {
+            "bgColor": "#2e2e2e",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/endian-logo-v3b4-webwhite-311x128-62.png",
+              "height": 128,
+              "alt": "Endian home",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social.html\">Collaborators<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"links.html\">Useful links<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-89",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-90",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://link.springer.com/article/10.1007/s00382-014-2373-4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Lique C., Johnson H.L., Plancherel Y., Flanders R. (2015). Ocean change around Greenland under a warming climate. Climate Dynamics, 45(5):1235-1252, doi:10.1007/s00382-\n  014-2373-4. (online: 10/2014) - (Featured in Nature Research Highlights 6 Nov 2014, 515: 11)</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "SPAN": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-91",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://link.springer.com/article/10.1007/s00382-014-2263-9\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Plancherel Y. (2015) Hydrographic biases in global coupled climate models and their \n  relation to the meridional overturning circulation. Climate Dynamics, 44(1):1-44, \n  doi:10.1007/s00382-014-2263-9 (online: 8/2014).\n</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-92",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://link.springer.com/article/10.1007/s00382-013-1984-5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Plancherel Y. (2014a). On the relationships between features of the depth-latitude \n  meridional overturning streamfunctions across global coupled climate models. Climate  \n  Dynamics, 42:2983-3004, doi:10.1007/s00382-013-1984-5 (online: 11/2013)\n</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-93",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.biogeosciences.net/11/4077/2014/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Rodgers K., Aumont O., Mikaloff-Fletcher S., Plancherel Y., Bopp L., de Boyer Montegut \n  C., Iudicone D., Keeling R. F., Madec G., Wanninkhof R. (2014) Strong sensitivity of  \n  Southern Ocean carbon uptake and nutrient cycling to wind stirring. Biogeosciences, 11:4077-\n  4098, doi:10.5194/bg-11-1-2014.\n</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-94",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.biogeosciences.net/10/4801/2013/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Plancherel Y., Rodgers, K. B., Key, R. M., Jacobson, A. R., Sarmiento, J.L. (2013). Role \n  of regression model selection and station distribution on the estimation of oceanic \n  anthropogenic carbon by eMLR. Biogeosciences, 10, 4801-4831, doi:10.5194/bg-10-\n  4801-2013\n</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-95",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.biogeosciences.net/8/1565/2011/bg-8-1565-2011.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Lam P., Jensen M., Kock A., Lettman K.A., Plancherel Y., Lavik G., Bange H., Kuypers \n  M.M.M. (2011) Origin and fate of the secondary nitrite maximum in the Arabian Sea. \n  Biogeosciences, 8, 1565-1577.\n</span>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-96",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.sciencedirect.com/science/article/pii/S0043135406007263\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Plancherel Y. and J. P. Cowen (2007). Towards measuring particle-associated fecal \n  indicator bacteria in tropical streams. Water Research 41(7): 1501-1515.\n</span>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-97",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://dataspace.princeton.edu/jspui/handle/88435/dsp01jh343s32h\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINK</a>",
+          "title": "Ph.D. Dissertation<br><span style=\"font-weight: normal;\">Plancherel Y. (2012) “A study of the ocean’s water masses using data and models.” \n  Ph.D. Dissertation, Princeton University.\n</span>",
+          "text": "Cut down the development time with drag-and-drop website builder."
+        },
+        {
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-98",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "You can use this form to request a PDF.",
+          "form": {
+            "action": "yves.plancherel@earth.ox.ac.uk",
+            "alerts": {
+              "success": "Thanks for getting in touch, we'll get back to you shortly."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone (optional)"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        }
+      ]
+    },
+    "people.html": {
+      "settings": {
+        "title": "People",
+        "meta_descr": "The workforce, past and present",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box5-65",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/wp-20161021-11-28-13-pro-1400x1821-5-1400x1825-71.png",
+              "link": "people.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Yves Plancherel",
+          "text": "Yves is the head of the ENDIAN group. He has broad interests and benefits from a diverse background. Yves worked on coastal microbial water quality issues, global carbon cycling, climate model intercomparison and on modelling the oceanic distribution of various metals and isotopes.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download CV (PDF)</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-59",
+          "_params": {
+            "bgColor": "#2e2e2e",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/endian-logo-v3b4-webwhite-311x128-35.png",
+              "height": 128,
+              "alt": "Endian home",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social.html\">Collaborators<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"links.html\">Useful links<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "msg-box1-60",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Current members"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            "H4": {
+              "font-size": "24px",
+              "color": "#f97352"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#000000"
+            },
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            "H5": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features1-61",
+          "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Luke Maxfield",
+          "subtitle1": "Masters' student<br>Exeter College; 2016-2017",
+          "caption1": "Luke started as a MOAP summer intern and is working on the development of statistical tools designed to assess the performance of ocean models",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title2": "Andrew Jamieson",
+          "subtitle2": "Masters' student<br>St-Annes College; 2016-2017",
+          "caption2": "Andrew started as a MOAP summer intern. He is developing an atmospheric model that simulates the emission, transport and desposition patterns of Pb, one of the most important metal pollutant and a great environmental tracer.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Shital Visana",
+          "subtitle3": "Masters' student<br>St-Annes College; 2016-2017",
+          "caption3": "Shital is working on coupling a model of physical chemistry for seawater with a circulation model. She is developing a speciation model for ions in seawater that will be run with the Transport Matrix method.&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-62",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box1-63",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Alumni"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            "H5": {
+              "font-size": "14px",
+              "color": "#000000"
+            },
+            "H4": {
+              "font-size": "24px",
+              "color": "#f97352"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#000000"
+            },
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-64",
+          "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Lewis Carney",
+          "subtitle1": "MOAP summer intern<br>St-Hughs College; 2014",
+          "caption1": "Lewis used the Transport Matrix technique to simulate the distribution of beryllium-10 in the ocean.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title2": "Georgina Tuffin",
+          "subtitle2": "MOAP summer intern<br>University of Southampton; 2015",
+          "caption2": "As part of her internship, Georgina assembled a global dataset of dissolved Pb concentration and isotopic measurements and performed model simulations to investigate the processes that control the distribution of Pb in the ocean.&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    },
+    "news..html": {
+      "settings": {
+        "title": "News",
+        "meta_descr": "News, updates and vacancies",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "24px",
+              "color": "#d14841"
+            }
+          },
+          "_anchor": "content1-7",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Updates &amp; Events</b></p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-3",
+          "_params": {
+            "bgColor": "#2e2e2e",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/endian-logo-v3b4-webwhite-311x128-17.png",
+              "height": 128,
+              "alt": "Endian home",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social.html\">Collaborators<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"links.html\">Useful links<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "<p>The <a href=\"https://twitter.com/endian_lab\" target=\"_blank\" class=\"text-danger\" style=\"font-style: normal;\"><b>@endian_lab</b></a> is just back from a research cruise abord the US NOAA research vessell R/V Ronald H. Brown in the South Pacific (<a href=\"https://cchdo.github.io/usgoship.ucsd.edu/about/\" target=\"_blank\" class=\"text-warning\" style=\"font-style: normal;\"><b>GOSHIP P18 leg2</b></a>). We collected about 1200 samples for rare earth elements analysis from Easter Island to the southern tip of Chile, via Antarctica and brushing past \"<a href=\"https://en.wikipedia.org/wiki/Pole_of_inaccessibility\" target=\"_blank\" class=\"text-warning\" style=\"font-style: normal;\"><b>Point Nemo</b></a>\". Looking forward to the next trip...these are always great adventures!&nbsp;</p>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-5",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            "P": {
+              "color": "#efefef",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "contacts1-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "assets/images/endian-logo-v3b4-webwhite-265x108-34.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Yves Plancherel<br>Department of Earth Sciences<br>University of Oxford<br>South Parks Road<br>Oxford, OX1 3AN<br>United Kingdom",
+          "text2": "<strong>Contacts</strong><br>\nEmail: yves.plancherel@earth.ox.ac.uk<br>\nPhone: +44 (0) 1865 272012<br>Twitter: <a href=\"https://twitter.com/endian_lab \" target=\"_blank\" class=\"text-danger\"><b>@endian_lab</b></a>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"https://www.earth.ox.ac.uk\" class=\"text-success\">Department of Earth Sciences</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://www.ox.ac.uk\" class=\"text-success\">University of Oxford</a><br></p>"
+        }
+      ]
+    },
+    "links.html": {
+      "settings": {
+        "title": "Useful links"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "24px",
+              "color": "#d14841"
+            }
+          },
+          "_anchor": "content1-2",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Computing environment</b></p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-a",
+          "_params": {
+            "bgColor": "#2e2e2e",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/endian-logo-v3b4-webwhite-311x128-62.png",
+              "height": 128,
+              "alt": "Endian home",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social.html\">Collaborators<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"links.html\">Useful links<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-b",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<ul><li>Link 1, etc...</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Data resources</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<ul><li>Link1, etc.</li></ul>"
+        }
+      ]
+    },
+    "teaching.html": {
+      "settings": {
+        "title": "Teaching and outreach"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-size": "36px"
+            },
+            "B": {
+              "color": "#d14841"
+            }
+          },
+          "_anchor": "content1-j",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<b>Teaching</b>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<ul><li>2nd year \"Math Tools for Earth Sciences\" &nbsp; &nbsp;(course material on <a href=\"https://weblearn.ox.ac.uk/portal\" target=\"_blank\" class=\"text-primary\">Weblearn</a>)</li><li>4th year \"Topics in Oceanography\" &nbsp; &nbsp; (course material on <a href=\"https://weblearn.ox.ac.uk/portal\" target=\"_blank\">Weblearn</a>)</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "36px",
+              "color": "#d14841"
+            }
+          },
+          "_anchor": "content1-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Outreach</b> (Follow us on Twitter <a href=\"https://twitter.com/endian_lab\" target=\"_blank\" class=\"text-warning\"><b style=\"font-style: normal;\">@endian_lab</b></a>)</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<ul><li>Imaging in the Earth Sciences (2014)</li></ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Lecture for The Northwest Center Science Summer School at Chorpus Christi College, The University of Oxford.<br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<ul><li>Energy &amp; the Environment (2017)</li></ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Lecture for the \"Looking Forward 2017\" event at the Mathematical Institute, The University of Oxford</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-8",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>If you are looking for speakers for outreach events or have any question related to the Earth Sciences or the Environment, please ask.</b></p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-e",
+          "_params": {
+            "bgColor": "#2e2e2e",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/endian-logo-v3b4-webwhite-311x128-17.png",
+              "height": 128,
+              "alt": "Endian home",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social.html\">Collaborators<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"links.html\">Useful links<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-f",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            "P": {
+              "color": "#efefef",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "contacts1-g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "assets/images/endian-logo-v3b4-webwhite-265x108-34.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Yves Plancherel<br>Department of Earth Sciences<br>University of Oxford<br>South Parks Road<br>Oxford, OX1 3AN<br>United Kingdom",
+          "text2": "<strong>Contacts</strong><br>\nEmail: yves.plancherel@earth.ox.ac.uk<br>\nPhone: +44 (0) 1865 272012<br>Twitter: <a href=\"https://twitter.com/endian_lab \" target=\"_blank\" class=\"text-danger\"><b>@endian_lab</b></a>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"https://www.earth.ox.ac.uk\" class=\"text-success\">Department of Earth Sciences</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://www.ox.ac.uk\" class=\"text-success\">University of Oxford</a><br></p>"
+        }
+      ]
+    },
+    "vacancies.html": {
+      "settings": {
+        "title": "Vacancies and Opportunities",
+        "meta_descr": "Vacancies and Opportunities",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-9",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Vacancies</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "UL": {
+              "font-size": "18px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<ul><li>[<b>OPEN</b>: posted 30 March 2017] </li></ul><p><b>Paid undergraduate summer internship opportunity</b> for a student interested <b>in marine biogeochemistry</b>. This is a paid (<b>3000£</b>) 8-weeks summer placement sponsored by the<b> <a href=\"http://www.climate.ox.ac.uk/wordpress/oxford-climate-research/met-office-academic-partnership/\" target=\"_blank\" style=\"font-style: normal;\"><b>Met-Office Oxford Academic Partnership</b></a> </b>(MOAP). </p><p>The title of the project is \"<i>The subtropical circulation of biogeochemically active tracers in the Atlantic</i>\".&nbsp;<span style=\"line-height: 1.5;\">This project is a collaboration with colleagues at Princeton University, USA, and focuses on analysing output from a latest generation ocean and biogeochemistry general circulation model. No prior programming experience necessary, but the ideal candidate will demonstrate a strong interest in learning programming and modeling with aptitudes in the sciences.  </span><a href=\"vacancies.html#contacts1-4\" style=\"background-color: rgb(255, 255, 255); line-height: 1.5;\"><b style=\"font-style: normal;\">Contact us</b></a><span style=\"line-height: 1.5;\"> for details and questions. The position is open until filled (must have \"right to work in the UK\") .</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Opportunities</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "UL": {
+              "font-size": "18px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "P": {
+              "font-size": "18px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<ul><li>[<b>ONGOING</b>:&nbsp;D.Phil. studentships]</li></ul><p><span style=\"line-height: 1.5;\"><b>Prospective D.Phil students!</b> ... contact us as soon as possible so we can help you get through the hurdles of the application and admission process in our <a href=\"https://www.environmental-research.ox.ac.uk\" target=\"_blank\" style=\"font-style: normal;\"><b>DTP programme in Environmental Research</b></a>! The University of Oxford is a truely fantastic place to work and study... but that also means it's a competitive school to get in. We can coach you through the process and advise you. Don't hesitate to <a href=\"vacancies.html#contacts1-4\" style=\"font-style: normal;\"><b>ask</b></a>.<b>&nbsp;</b></span><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "UL": {
+              "font-size": "18px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "P": {
+              "font-size": "18px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<ul><li>[<b>ONGOING</b>: General enquiries] </li></ul><p><a href=\"https://twitter.com/endian_lab\" target=\"_blank\" style=\"font-style: normal;\"><b>@endian_lab</b></a> is always looking for interesting and motivated collaborators (students, interns, postdocs, colleagues, sponsors, customers, etc.). There are <b>many projects available</b> but if you have an idea and would like to pursue something specific or would like us to take a look at your problem, we will work to make it happen! Get in touch and<b> <a href=\"vacancies.html#contacts1-4\" style=\"font-style: normal;\"><b>contact us</b></a></b>!</p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1",
+          "_params": {
+            "bgColor": "#2e2e2e",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/endian-logo-v3b4-webwhite-311x128-17.png",
+              "height": 128,
+              "alt": "Endian home",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social.html\">Collaborators<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"links.html\">Useful links<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-3",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            "P": {
+              "color": "#efefef",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "contacts1-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "assets/images/endian-logo-v3b4-webwhite-265x108-34.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Yves Plancherel<br>Department of Earth Sciences<br>University of Oxford<br>South Parks Road<br>Oxford, OX1 3AN<br>United Kingdom",
+          "text2": "<strong>Contacts</strong><br>\nEmail: yves.plancherel@earth.ox.ac.uk<br>\nPhone: +44 (0) 1865 272012<br>Twitter: <a href=\"https://twitter.com/endian_lab \" target=\"_blank\" class=\"text-danger\"><b>@endian_lab</b></a>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"https://www.earth.ox.ac.uk\" class=\"text-success\">Department of Earth Sciences</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://www.ox.ac.uk\" class=\"text-success\">University of Oxford</a><br></p>"
+        },
+        {
+          "_name": "map1",
+          "_anchor": "map1-5",
+          "_params": {
+            "googleMap": {
+              "address": "Department of Earth Sciences, South Parks Road, Oxford OX1 3AN",
+              "placeId": "ChIJ5wfCCqnGdkgRK7OrnnGPaqc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        }
+      ]
+    }
+  }
+}
