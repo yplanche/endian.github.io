@@ -501,6 +501,9 @@ h6,
   font-size: 17px;
   text-align: right;
 }
+#form1-2 .form-control-label {
+  color: #232323;
+}
 
 #menu-75 .hide-buttons .nav-btn {
   display: none !important;
@@ -1230,6 +1233,14 @@ h6,
 #content1-2 P {
   font-size: 18px;
   color: #000000;
+}
+#content1-4 P {
+  color: #d14841;
+  font-size: 24px;
+}
+#content1-3 P {
+  color: #d14841;
+  font-size: 24px;
 }
 #menu-1 .hide-buttons .nav-btn {
   display: none !important;
