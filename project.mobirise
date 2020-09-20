@@ -121,18 +121,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            }
+          },
           "_anchor": "content1-1",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgColor": "#efefef"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In computer science, \"<b>endianness</b>\" refers to the order bytes are stored in memory. In everyday life, we use the <b>big-endian</b> convention: we write the number \"one hundred\" as \"100\", with the most significant digit first. But this is a just a convention. Some computers, however, use the <b>little-endian</b> form and store (and understand) the number \"one hundred\" in their memory as \"001\" (Wikipedia provides a detailed explanation of \"endianness\", https://en.wikipedia.org/wiki/Endianness).&nbsp;</span><br></p><p><br></p><p>With this in mind, \"Endian\", aside from being the acronym of our group, underlines also the group's philosophy; that is we strive to investigate environmental change from various angles, including and especially non-conventional ones (in the little-endian way!). \"Endian\" of course also highlights our use of computer modeling to help us quantify and physically understand environmental signals.</p>",
-          "_styles": {
-            "P": {
-              "font-size": "18px"
-            }
-          }
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In computer science, \"<b>endianness</b>\" refers to the order bytes are stored in memory. In everyday life, we use the <b>big-endian</b> convention: we write the number \"one hundred\" as \"100\", with the most significant digit first. But this is a just a convention. Some computers, however, use the <b>little-endian</b> form and store (and understand) the number \"one hundred\" in their memory as \"001\" (Wikipedia provides a detailed explanation of \"endianness\", https://en.wikipedia.org/wiki/Endianness).&nbsp;</span><br></p><p><br></p><p>With this in mind, \"Endian\", aside from being the acronym of our group, underlines also the group's philosophy; that is we strive to investigate environmental change from various angles, including and especially non-conventional ones (in the little-endian way!). \"Endian\" of course also highlights our use of computer modeling to help us quantify and physically understand environmental signals.</p>"
         },
         {
           "_styles": {
