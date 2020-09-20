@@ -212,7 +212,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.imperial.ac.uk/people/y.plancherel/publications.html\" target=\"_blank\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
         },
         {
           "_name": "footer1",
@@ -241,7 +241,7 @@
             "P": {
               "color": "#efefef",
               "font-size": "17px",
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_anchor": "contacts1-66",
@@ -274,7 +274,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Yves Plancherel<br>Grantham Institute - climate change and the environment<br>Imperial College London<br>South Kensington Campus<br>London, SW7 2AZ<br>United Kingdom",
-          "text2": "<strong>Contacts</strong><br>\nEmail: y.plancherel@imperial.ac.uk<br>\nPhone (Grantham)<br>: +44 (0)2075 941034 <br> Phone (ESE):<br>+44 (0)2075 942967 &nbsp;<br>Twitter: <a href=\"https://twitter.com/endian_lab \" target=\"_blank\" class=\"text-danger\"><b>@endian_lab</b></a>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: y.plancherel@imperial.ac.uk<br>\nPhone (Grantham):<br>&nbsp;+44 (0)2075 941034 <br> Phone (ESE):<br>+44 (0)2075 942967 &nbsp;<br>Twitter: <a href=\"https://twitter.com/endian_lab \" target=\"_blank\" class=\"text-danger\"><b>@endian_lab</b></a>",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"https://www.imperial.ac.uk\" class=\"text-danger\">Imperial College london</a></p><p><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\" target=\"_blank\"><br></a></p><br><p><a href=\"https://www.imperial.ac.uk/earth-science/ \" target=\"_blank\" class=\"text-danger\">Department of Earth Sciences and Engineering</a></p><br><p><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\" target=\"_blank\">Grantham Institute - climate change and the environment</a></p><br><p><a href=\"http://www.imperial.ac.uk/marine-and-coastal-environments\" target=\"_blank\" class=\"text-danger\">Marine and coastal environments network</a><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\" target=\"_blank\"></a></p><br><p><a href=\"http://\" target=\"_blank\" class=\"text-danger\">Directions and map of campus</a><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\"><br></a><a href=\"http://www.ox.ac.uk\" class=\"text-success\"></a><br></p>"
         },
         {
@@ -477,7 +477,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.imperial.ac.uk/people/y.plancherel/publications.html\" target=\"_blank\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
         },
         {
           "_name": "footer1",
@@ -1125,7 +1125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.imperial.ac.uk/people/y.plancherel/publications.html\" target=\"_blank\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
         },
         {
           "_name": "footer1",
@@ -1457,7 +1457,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.imperial.ac.uk/people/y.plancherel/publications.html\" target=\"_blank\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
         },
         {
           "_name": "footer1",
@@ -1959,7 +1959,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.imperial.ac.uk/people/y.plancherel/publications.html\" target=\"_blank\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
         },
         {
           "_name": "msg-box1",
@@ -2339,7 +2339,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.imperial.ac.uk/people/y.plancherel/publications.html\" target=\"_blank\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
         },
         {
           "_tags": [
@@ -2388,7 +2388,7 @@
             "P": {
               "color": "#efefef",
               "font-size": "17px",
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_anchor": "contacts1-6",
@@ -2421,7 +2421,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Yves Plancherel<br>Grantham Institute - climate change and the environment<br>Imperial College London<br>South Kensington Campus<br>London, SW7 2AZ<br>United Kingdom",
-          "text2": "<strong>Contacts</strong><br>\nEmail: y.plancherel@imperial.ac.uk<br>\nPhone (Grantham)<br>: +44 (0)2075 941034 <br> Phone (ESE):<br>+44 (0)2075 942967 &nbsp;<br>Twitter: <a href=\"https://twitter.com/endian_lab \" target=\"_blank\" class=\"text-danger\"><b>@endian_lab</b></a>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: y.plancherel@imperial.ac.uk<br>\nPhone (Grantham):<br>&nbsp;+44 (0)2075 941034 <br> Phone (ESE):<br>+44 (0)2075 942967 &nbsp;<br>Twitter: <a href=\"https://twitter.com/endian_lab \" target=\"_blank\" class=\"text-danger\"><b>@endian_lab</b></a>",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"https://www.imperial.ac.uk\" class=\"text-danger\">Imperial College london</a></p><p><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\" target=\"_blank\"><br></a></p><br><p><a href=\"https://www.imperial.ac.uk/earth-science/ \" target=\"_blank\" class=\"text-danger\">Department of Earth Sciences and Engineering</a></p><br><p><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\" target=\"_blank\">Grantham Institute - climate change and the environment</a></p><br><p><a href=\"http://www.imperial.ac.uk/marine-and-coastal-environments\" target=\"_blank\" class=\"text-danger\">Marine and coastal environments network</a><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\" target=\"_blank\"></a></p><br><p><a href=\"http://\" target=\"_blank\" class=\"text-danger\">Directions and map of campus</a><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\"><br></a><a href=\"http://www.ox.ac.uk\" class=\"text-success\"></a><br></p>"
         }
       ]
@@ -2533,7 +2533,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.imperial.ac.uk/people/y.plancherel/publications.html\" target=\"_blank\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
         },
         {
           "_name": "footer1",
@@ -2794,7 +2794,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.imperial.ac.uk/people/y.plancherel/publications.html\" target=\"_blank\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
         },
         {
           "_name": "footer1",
@@ -2823,7 +2823,7 @@
             "P": {
               "color": "#efefef",
               "font-size": "17px",
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_anchor": "contacts1-g",
@@ -2856,7 +2856,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Yves Plancherel<br>Grantham Institute - climate change and the environment<br>Imperial College London<br>South Kensington Campus<br>London, SW7 2AZ<br>United Kingdom",
-          "text2": "<strong>Contacts</strong><br>\nEmail: y.plancherel@imperial.ac.uk<br>\nPhone (Grantham)<br>: +44 (0)2075 941034 <br> Phone (ESE):<br>+44 (0)2075 942967 &nbsp;<br>Twitter: <a href=\"https://twitter.com/endian_lab \" target=\"_blank\" class=\"text-danger\"><b>@endian_lab</b></a>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: y.plancherel@imperial.ac.uk<br>\nPhone (Grantham):<br>&nbsp;+44 (0)2075 941034 <br> Phone (ESE):<br>+44 (0)2075 942967 &nbsp;<br>Twitter: <a href=\"https://twitter.com/endian_lab \" target=\"_blank\" class=\"text-danger\"><b>@endian_lab</b></a>",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"https://www.imperial.ac.uk\" class=\"text-danger\">Imperial College london</a></p><p><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\" target=\"_blank\"><br></a></p><br><p><a href=\"https://www.imperial.ac.uk/earth-science/ \" target=\"_blank\" class=\"text-danger\">Department of Earth Sciences and Engineering</a></p><br><p><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\" target=\"_blank\">Grantham Institute - climate change and the environment</a></p><br><p><a href=\"http://www.imperial.ac.uk/marine-and-coastal-environments\" target=\"_blank\" class=\"text-danger\">Marine and coastal environments network</a><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\" target=\"_blank\"></a></p><br><p><a href=\"http://\" target=\"_blank\" class=\"text-danger\">Directions and map of campus</a><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\"><br></a><a href=\"http://www.ox.ac.uk\" class=\"text-success\"></a><br></p>"
         }
       ]
@@ -2881,13 +2881,32 @@
               "font-size": "24px"
             }
           },
-          "_anchor": "content1-9",
+          "_anchor": "content1-a",
           "_params": {
-            "paddingTop": "6",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p><b>Vacancies</b></p>"
+          "text": "<p><b>Opportunities</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-c",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>General information</b></p>"
         },
         {
           "_tags": [
@@ -2901,7 +2920,51 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "P": {
-              "font-size": "18px"
+              "font-size": "18px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<ul><li>[<b>ALWAYS OPEN</b>: General enquiries]</li></ul><p>We are always looking for interesting and motivated collaborators (students, interns, postdocs, colleagues, sponsors, customers, etc.). There are<b>&nbsp;always projects available</b> but <b>if you have an idea</b> and would like to pursue something specific or would like us to take a look at your problem, we will work to make it happen! Get in touch and<b> <a href=\"vacancies.html#contacts1-4\" style=\"font-style: normal;\"><b>contact us</b></a></b>!</p><p><br></p><p>Imperial College London is a truely fantastic place to work and study and <a href=\"https://www.imperial.ac.uk/study/ug/\" target=\"_blank\">it is often ranked in the top 5 UK universities and the top 10 in the world</a><a href=\"https://www.imperial.ac.uk/study/ug/\" target=\"_blank\"></a><b><a href=\"https://www.imperial.ac.uk/study/ug/\" target=\"_blank\"></a>.&nbsp;</b>&nbsp;That means that Imperial College is a very good host university to support your scholarship and fellowship applications, but also that it is a very competitive school to get in. We can coach you through the application process and advise you if you get in touch early.</p><p><br></p><p>The main difficulty is nearly always to find adequate funding. Aside from the occasional funding available to the group from research grants, prospective students and researchers are encouraged to pursue other funding opportunities. Scholarships and fellowships sometimes exist for international students for which institutional sponsorship is required; if you know of a particular scheme for which you are eligible, please get in touch and let us know how we can support your application.&nbsp;</p><p><br></p><p>Useful links:</p><ul><li><a href=\"https://www.imperial.ac.uk/study/pg/\" target=\"_blank\"><b>Postgraduate studies in Imperial College</b></a></li><li><span style=\"background-color: rgb(255, 255, 255); line-height: 1.5;\"><a href=\"https://www.imperial.ac.uk/earth-science/prosp-students/phd-opportunities/\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255); line-height: 1.5;\"><b>PhD in Earth Sciences and Engineering</b></a></span></li><li><a href=\"https://www.imperial.ac.uk/earth-science/prosp-students/ug-courses/\" target=\"_blank\"><b>Undergraduate courses in Earth Sciences and Engineering</b></a></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-4",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Bsc, undergraduate students and interns</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "UL": {
+              "font-size": "18px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "P": {
+              "font-size": "18px",
+              "color": "#000000"
             }
           },
           "_anchor": "content1-a",
@@ -2910,7 +2973,50 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<ul><li>[<b>OPEN</b>: posted 30 March 2017] </li></ul><p><b>Paid undergraduate summer internship opportunity</b> for a student interested <b>in marine biogeochemistry</b>. This is a paid (<b>3000£</b>) 8-weeks summer placement sponsored by the<b> <a href=\"http://www.climate.ox.ac.uk/wordpress/oxford-climate-research/met-office-academic-partnership/\" target=\"_blank\" style=\"font-style: normal;\"><b>Met-Office Oxford Academic Partnership</b></a> </b>(MOAP). </p><p>The title of the project is \"<i>The subtropical circulation of biogeochemically active tracers in the Atlantic</i>\".&nbsp;<span style=\"line-height: 1.5;\">This project is a collaboration with colleagues at Princeton University, USA, and focuses on analysing output from a latest generation ocean and biogeochemistry general circulation model. No prior programming experience necessary, but the ideal candidate will demonstrate a strong interest in learning programming and modeling with aptitudes in the sciences.  </span><a href=\"vacancies.html#contacts1-4\" style=\"background-color: rgb(255, 255, 255); line-height: 1.5;\"><b style=\"font-style: normal;\">Contact us</b></a><span style=\"line-height: 1.5;\"> for details and questions. The position is open until filled (must have \"right to work in the UK\") .</span></p>"
+          "text": "<ul><li>[<b>ALWAYS OPEN</b>: watch for deadlines] </li></ul><p><b>Paid undergraduate summer internship opportunity</b>&nbsp;exist throught <a href=\"https://www.imperial.ac.uk/urop/\" target=\"_blank\"><b>Imperial College's Undergraduate Research Opportunities Programme (UROP)</b></a>. I<span style=\"line-height: 1.5;\">f you are an undergraduate student interested in a summer internship or are looking for a host for your self-funded research internship, please&nbsp;</span><a href=\"vacancies.html#contacts1-4\"><b style=\"font-style: normal;\">contact us</b></a><a href=\"vacancies.html#contacts1-4\" style=\"line-height: 1.5; background-color: rgb(255, 255, 255);\"><b style=\"font-style: normal;\"></b></a><span style=\"line-height: 1.5;\"> for details.</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-6",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>MSc (Master's students)</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "UL": {
+              "font-size": "18px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "P": {
+              "font-size": "18px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-5",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<ul><li>[<b>ALWAYS</b>&nbsp;<b>OPEN</b>: watch for deadlines] </li></ul><p><b>Many relevant MSc courses exist.</b>&nbsp; Students from these courses wanting to do their MSc<b>&nbsp;project in the group</b>&nbsp;are highly encouraged to&nbsp;<b style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\"><a href=\"vacancies.html#contacts1-4\" style=\"line-height: 1.5; background-color: rgb(255, 255, 255);\"><b>Contact us</b></a>. </b><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Although we sometimes advertise projects specific to these courses, we can also make up a project to suit your interests! Just reach out, propose an idea and let's talk!</span></p><p><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Some of the relevant courses are listed here:</span></p><ul><li><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Applied Computational Science &amp; Engineering MSc</span></li><li><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Climate Change, Management and Finance MSc</span></li><li><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Environmental Engineering MSc</span></li><li><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Hydrology and Business Management MSc</span></li><li><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Metals and Energy Finance MSc</span></li><li><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Petroleum Geosciences MSc</span></li><li><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Environmental Technology MSc</span></li><li><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Computational Methods in Ecology and Evolution MSc</span></li><li><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Conservation Science MSc</span></li><li><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Ecosystem and Environmental Change MRes</span></li><li><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Ecology, Evolution and Conservation Research MRes</span></li><li><span style=\"line-height: 1.5; background-color: rgb(255, 255, 255); font-style: normal;\">Sustainable Energy Future MSc</span></li></ul>"
         },
         {
           "_tags": [
@@ -2929,7 +3035,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p><b>Opportunities</b></p>"
+          "text": "<p><b>PhD students</b></p>"
         },
         {
           "_tags": [
@@ -2953,7 +3059,26 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<ul><li>[<b>ONGOING</b>:&nbsp;D.Phil. studentships]</li></ul><p><span style=\"line-height: 1.5;\"><b>Prospective D.Phil students!</b> ... contact us as soon as possible so we can help you get through the hurdles of the application and admission process in our <a href=\"https://www.environmental-research.ox.ac.uk\" target=\"_blank\" style=\"font-style: normal;\"><b>DTP programme in Environmental Research</b></a>! The University of Oxford is a truely fantastic place to work and study... but that also means it's a competitive school to get in. We can coach you through the process and advise you. Don't hesitate to <a href=\"vacancies.html#contacts1-4\" style=\"font-style: normal;\"><b>ask</b></a>.<b>&nbsp;</b></span><br></p>"
+          "text": "<ul><li>[<b>ALWAYS OPEN</b>: watch for deadlines!]</li></ul><p><span style=\"line-height: 1.5;\"><b>Prospective D.Phil students from anywhere</b>, please&nbsp;<a href=\"vacancies.html#contacts1-4\"><b>contact us</b></a> as soon as possible so we can help you get through the hurdles of the application and admission process. <b>We can coach you through the process, help your with your scholarship applications and advise you if you get in touch early.</b> Don't hesitate to <a href=\"vacancies.html#contacts1-4\" style=\"font-style: normal;\"><b>ask</b></a>.<b>&nbsp;</b>Note that strict eligibility criteria and deadines exist for each of these schemes.&nbsp;</span></p><ul><li>Most of the funding for students comes from various sources, typically NERC Doctoral Training Partnerships (DTP), Engineering and Physical Sciences Research Council (EPSRC) Centers for Doctoral Training (CDT), Science &amp; Technology Facilities Council support (STFC) or Industrial CASE partnerships.&nbsp;</li><li>Relevant programmes are: the Science and Solutions for a Changing Planet DTP, the NERC Oil &amp; Gas CDT, the CDT in Fluid Dynamics Across Scales and the CDT in the Mathematics of Planet Earth &nbsp;</li><li>Specific Scholarships also exist, including the Janet Watson Scholarship (Earth Sciences only), the Presdient's PhD Scholarship and the Beit Fellowship</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#d14841",
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "content1-7",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Posdoctoral researchers</b></p>"
         },
         {
           "_tags": [
@@ -2971,51 +3096,13 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content1-2",
+          "_anchor": "content1-9",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<ul><li>[<b>ONGOING</b>: General enquiries] </li></ul><p><a href=\"https://twitter.com/endian_lab\" target=\"_blank\" style=\"font-style: normal;\"><b>@endian_lab</b></a> is always looking for interesting and motivated collaborators (students, interns, postdocs, colleagues, sponsors, customers, etc.). There are <b>many projects available</b> but if you have an idea and would like to pursue something specific or would like us to take a look at your problem, we will work to make it happen! Get in touch and<b> <a href=\"vacancies.html#contacts1-4\" style=\"font-style: normal;\"><b>contact us</b></a></b>!</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#d14841",
-              "font-size": "24px"
-            }
-          },
-          "_anchor": "content1-4",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<p><b>General information</b></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#d14841",
-              "font-size": "24px"
-            }
-          },
-          "_anchor": "content1-3",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "Aside from funding available to the group from research grants, prospective students and researchers are also encouraged to pursue the following opportunities, depending on level or scientific area of interest.&nbsp;<div><b><br></b></div><div><b>FOR POSTDOCS:</b></div><ul><li>Imperial College Research Fellowship: offers a competitive salary, mulitple levels of support and opportunities for career development and up to 45K£ in research funds during 4 years.</li><li>UK Research &amp; Innovation Future Leaders Fellowship: a cross-UK Research and Innovation (UKRI) scheme open to both UK and international applicants to support early career researchers and innovators from diverse career paths for up to 7 years.</li><li>NERC Independent Research Fellowship: offers funding for salary and research for 5 years</li><li>Royal Society University Reseach Fellowship&nbsp;</li><li>ESRC Early Career Fellowship</li><li>STFC Ernest Rutherford Fellowship</li><li><b><br></b></li></ul><div><b>FOR PROSPECTIVE PHD STUDENTS:</b></div><ul><li>PhD studies at Imperial College last 3.5 years. Various sources of funding are available for successful applicants. These cover tuition fees and pay RCUK-rate bursaries of approximately £16,500 per year.</li></ul><div><b><br></b></div><div><b>GENERAL INFORMATION:</b></div><ul><li>Postgraduate studies in Imperial College</li><li>PhD in Earth Sciences and Engineering</li></ul><div><b><br></b></div><div><b>FUNDING SOURCES &amp; DOCTORAL PROGRAMMES</b></div><ul><li>Most of the funding for students comes from various sources, typically NERC Doctoral Training Partnerships (DTP), Engineering and Physical Sciences Research Council (EPSRC) Centers for Doctoral Training (CDT), Science &amp; Technology Facilities Council support (STFC) or Industrial CASE partnerships.</li><li>Relevant programmes are: the Science and Solutions for a Changing Planet DTP, the NERC Oil &amp; Gas CDT, the CDT in Fluid Dynamics Across Scales and the CDT in the Mathematics of Planet Earth &nbsp;</li><li>Specific Scholarships also exist, including the Janet Watson Scholarship (Earth Sciences only), the Presdient's PhD Scholarship and the Beit Fellowship</li></ul><div><b><br></b></div><div><b>FOR ANYONE WILLING TO PURSUE MASTER'S COURSES RELATED TO ENVIRONMENTAL SCIENCES:</b></div><ul><li>Applied Computational Science &amp; Engineering MSc</li><li>Climate Change, Management and Finance MSc</li><li>Environmental Engineering MSc</li><li>Hydrology and Business Management MSc</li><li>Metals and Energy Finance MSc</li><li>Petroleum Geosciences MSc</li><li>Environmental Technology MSc</li><li>Computational Methods in Ecology and Evolution MSc</li><li>Conservation Science MSc</li><li>Ecosystem and Environmental Change MRes</li><li>Ecology, Evolution and Conservation Research MRes</li><li>Sustainable Energy Future MSc</li></ul><div><b><br></b></div><div><b>FOR UNDERGRADUATES INTERESTED IN STUDYING ENVIRONMENTAL SCIENCES IN IMPERIAL COLLEGE:</b></div><ul><li>Department of Earth Sciences and Engineering</li><li>Undergraduate programmes in Imperial College</li></ul>"
+          "text": "<ul><li>[<b>ALWAYS OPEN</b>: watch for deadlines] </li></ul><p>Aside from occasional funding available to the group from research grants and associated advertised positions, individuals interested in conducting posdoctoral research projects in the groups are encouraged to reach out so we can support you through your own funding application process. In addition to european or international schemes, the following schemes exist in the UK:</p><ul><li>Imperial College Research Fellowship: offers a competitive salary, mulitple levels of support and opportunities for career development and up to &gt;45K£ in research funds during 4 years.</li><li>NERC Independent Research Fellowship: offers funding for salary and research for 5 years</li><li>Royal Society University Reseach Fellowship&nbsp;</li><li>ESRC Early Career Fellowship</li><li>STFC Ernest Rutherford Fellowship</li></ul>"
         },
         {
           "_styles": {
@@ -3100,7 +3187,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENDIAN</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-66\">CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"news..html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NEWS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"news..html\">Updates &amp; Events</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vacancies.html\">Vacancies &amp; Opportunities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PEOPLE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box5-65\">Yves Plancherel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-60\" aria-expanded=\"false\">Current members</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"people.html#msg-box1-63\" aria-expanded=\"false\">Alumni</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESEARCH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-74\">Rare Earth Elements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-78\">Thorium isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-80\">Lead (Pb) and Pb isotopes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"research.html#msg-box5-82\">Climate model diagnostics</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"resources.html#content1-33\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.imperial.ac.uk/people/y.plancherel/publications.html\" target=\"_blank\">Publications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teaching.html#content1-j\">Teaching &amp; Outreach</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">NEWS</a></li>"
         },
         {
           "_name": "footer1",
@@ -3129,7 +3216,7 @@
             "P": {
               "color": "#efefef",
               "font-size": "17px",
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_anchor": "contacts1-4",
@@ -3162,20 +3249,65 @@
             }
           },
           "text1": "<strong>Address</strong><br>Yves Plancherel<br>Grantham Institute - climate change and the environment<br>Imperial College London<br>South Kensington Campus<br>London, SW7 2AZ<br>United Kingdom",
-          "text2": "<strong>Contacts</strong><br>\nEmail: y.plancherel@imperial.ac.uk<br>\nPhone (Grantham)<br>: +44 (0)2075 941034 <br> Phone (ESE):<br>+44 (0)2075 942967 &nbsp;<br>Twitter: <a href=\"https://twitter.com/endian_lab \" target=\"_blank\" class=\"text-danger\"><b>@endian_lab</b></a>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: y.plancherel@imperial.ac.uk<br>\nPhone (Grantham):<br>&nbsp;+44 (0)2075 941034 <br> Phone (ESE):<br>+44 (0)2075 942967 &nbsp;<br>Twitter: <a href=\"https://twitter.com/endian_lab \" target=\"_blank\" class=\"text-danger\"><b>@endian_lab</b></a>",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"https://www.imperial.ac.uk\" class=\"text-danger\">Imperial College london</a></p><p><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\" target=\"_blank\"><br></a></p><br><p><a href=\"https://www.imperial.ac.uk/earth-science/ \" target=\"_blank\" class=\"text-danger\">Department of Earth Sciences and Engineering</a></p><br><p><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\" target=\"_blank\">Grantham Institute - climate change and the environment</a></p><br><p><a href=\"http://www.imperial.ac.uk/marine-and-coastal-environments\" target=\"_blank\" class=\"text-danger\">Marine and coastal environments network</a><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\" target=\"_blank\"></a></p><br><p><a href=\"http://\" target=\"_blank\" class=\"text-danger\">Directions and map of campus</a><a href=\"https://www.imperial.ac.uk/grantham/\" class=\"text-danger\"><br></a><a href=\"http://www.ox.ac.uk\" class=\"text-success\"></a><br></p>"
         },
         {
-          "_name": "map1",
-          "_anchor": "map1-5",
-          "_params": {
-            "googleMap": {
-              "address": "Department of Earth Sciences, South Parks Road, Oxford OX1 3AN",
-              "placeId": "ChIJ5wfCCqnGdkgRK7OrnnGPaqc",
-              "state": "ok",
-              "stateDetails": ""
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
             }
-          }
+          },
+          "_anchor": "form1-b",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "You can use this form to contact us by email.",
+          "form": {
+            "action": "y.plancherel@imperial.ac.uk",
+            "alerts": {
+              "success": "Thanks for getting in touch, we'll get back to you shortly."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone (optional)"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         }
       ]
     }

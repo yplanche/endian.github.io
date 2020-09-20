@@ -499,7 +499,7 @@ h6,
 #contacts1-66 P {
   color: #efefef;
   font-size: 17px;
-  text-align: right;
+  text-align: left;
 }
 #form1-2 .form-control-label {
   color: #232323;
@@ -1033,7 +1033,7 @@ h6,
 #contacts1-6 P {
   color: #efefef;
   font-size: 17px;
-  text-align: right;
+  text-align: left;
 }
 
 #content1-2 P {
@@ -1197,34 +1197,21 @@ h6,
 #contacts1-g P {
   color: #efefef;
   font-size: 17px;
-  text-align: right;
+  text-align: left;
 }
 
 
 
 
-#content1-9 P {
-  color: #d14841;
-  font-size: 24px;
-}
-#content1-a UL {
-  font-size: 18px;
-  font-family: 'Roboto', sans-serif;
-}
+
+
 #content1-a P {
-  font-size: 18px;
-}
-#content1-b P {
   color: #d14841;
   font-size: 24px;
 }
-#content1-1 UL {
-  font-size: 18px;
-  font-family: 'Roboto', sans-serif;
-}
-#content1-1 P {
-  font-size: 18px;
-  color: #000000;
+#content1-c P {
+  color: #d14841;
+  font-size: 24px;
 }
 #content1-2 UL {
   font-size: 18px;
@@ -1238,9 +1225,49 @@ h6,
   color: #d14841;
   font-size: 24px;
 }
-#content1-3 P {
+#content1-a UL {
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+}
+#content1-a P {
+  font-size: 18px;
+  color: #000000;
+}
+#content1-6 P {
   color: #d14841;
   font-size: 24px;
+}
+#content1-5 UL {
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+}
+#content1-5 P {
+  font-size: 18px;
+  color: #000000;
+}
+#content1-b P {
+  color: #d14841;
+  font-size: 24px;
+}
+#content1-1 UL {
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+}
+#content1-1 P {
+  font-size: 18px;
+  color: #000000;
+}
+#content1-7 P {
+  color: #d14841;
+  font-size: 24px;
+}
+#content1-9 UL {
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+}
+#content1-9 P {
+  font-size: 18px;
+  color: #000000;
 }
 #menu-1 .hide-buttons .nav-btn {
   display: none !important;
@@ -1311,5 +1338,8 @@ h6,
 #contacts1-4 P {
   color: #efefef;
   font-size: 17px;
-  text-align: right;
+  text-align: left;
+}
+#form1-b .form-control-label {
+  color: #232323;
 }
