@@ -1926,7 +1926,7 @@
               "size": 0
             }
           },
-          "title": "Yves Plancherel",
+          "title": "Dr. Yves Plancherel",
           "text": "I am lecturer in climate change and the environment at the Grantham Institute and leads the “Endian” (Environmental Diagnostics and Analysis) research group. Prior to joining Imperial College London, I studied in Switzerland, Hawaii Pacific University, University of Hawaii at Manoa, I got a PhD from Princeton University, and then worked at the University of Oxford, as James Martin Fellow and a NERC Independent Research Fellow. The goal of the Endian group is to develop a comprehensive understanding of global biogeochemical dynamics in a changing environments. We aim to support the green transition while trying to anticipate the pollution issues of that new low-carbon world by consolidating the knowledge base and build the datasets and tools that will be needed in the next decades.<br><br><b>Connect on <a href=\"https://www.linkedin.com/in/yves-plancherel-300692187/\" target=\"_blank\" class=\"text-danger\">LinkedIN</a></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download CV (PDF)</a>"
         },
@@ -2402,8 +2402,8 @@
           "_anchor": "features1-4",
           "_params": {
             "columnsColor": "#ffffff",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2501,8 +2501,8 @@
           "_anchor": "features1-5",
           "_params": {
             "columnsColor": "#ffffff",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2600,8 +2600,8 @@
           "_anchor": "features1-7",
           "_params": {
             "columnsColor": "#ffffff",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2954,7 +2954,7 @@
           },
           "title3": "Matthew Hammond",
           "subtitle3": "MOAP summer intern<br>University College, 2014",
-          "caption3": "\"Radium isotopes as tracers for ocean mixing and nutrient supply in the Cape Basin/\"",
+          "caption3": "\"Radium isotopes as tracers for ocean mixing and nutrient supply in the Cape Basin\"",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
