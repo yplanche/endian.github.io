@@ -68,6 +68,12 @@
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
               "text-align": "left"
+            },
+            "B": {
+              "font-size": "32px"
+            },
+            "SPAN": {
+              "font-size": "30px"
             }
           },
           "_anchor": "header2-65",
@@ -113,8 +119,49 @@
             }
           },
           "title": "INTRO WITH IMAGE",
-          "text": "We are an academic research group seeking to understand <b>global&nbsp;environmental </b><b>change</b> through the lense of elemental and isotopic geochemistry using physical principles, statistical analyses and computer modeling. &nbsp;<br><br>The goal of the Endian group is to develop a comprehensive understanding of global biogeochemical dynamics in a changing environments. We aim to support the green transition while trying to anticipate the pollution issues of the new low-carbon world by consolidating the knowledge base and build the datasets and tools that will be needed in the next decades.&nbsp;<br>",
+          "text": "<span style=\"line-height: 1.5;\">We are an academic research group seeking to understand </span><b>global&nbsp;environmental </b><b>change</b><span style=\"line-height: 1.5;\"> through the lense of elemental and isotopic geochemistry using physical principles, statistical analyses and computer modeling. &nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "font-size": "24px"
+            },
+            ".lead P": {
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "assets/images/img-20180421-023846-2000x1500-9.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "What we do?",
+          "text": "<p>The goal of the Endian group is to develop a comprehensive understanding of <b>global biogeochemical dynamics</b> in a changing environments. </p><p>We aim to support the <b>green transition</b> while trying to <b>anticipate the pollution issues</b> of the new low-carbon world by consolidating the knowledge base and build the datasets and tools that will be needed in the next decades.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
