@@ -100,7 +100,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "assets/images/endian-logo-v3b4-new-webwhite-big-1400x613-9.png",
+              "src": "assets/images/endian-logo-v3b4-new-webwhite-1400x613-1.png",
               "link": "",
               "alt": "",
               "title": "Endian logo",
@@ -311,7 +311,7 @@
           },
           "logo": {
             "image": {
-              "src": "assets/images/endian-logo-v3b4-new-webwhite-big-265x116-52.png",
+              "src": "assets/images/endian-logo-v3b4-new-webwhite-265x116-11.png",
               "width": 265,
               "active": true,
               "link": "",
